@@ -1,0 +1,19 @@
+Operadores Lógicos e Relacionais
+
+Operadores Relacionais 
+
+> Maior que 
+< Menor que 
+>= Maior ou igaul a 
+<= Menor ou igual a 
+= Igual a 
+<> Diferente de 
+
+Operadores Lógicos
+
+E 
+OU
+Não
+
+
+
