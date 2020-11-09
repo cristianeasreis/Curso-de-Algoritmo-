@@ -1,0 +1,23 @@
+Resumo Do Conteudo ALGORITIMO E LOGICA DA PROGRAMACAO
+
+Operadores Aritimeticos
+
++ Adição 
+- Subtração
+* Multiplicação
+/ Divisão
+\ Divisão Inteira
+^ Exponenciação
+% Módulo - Resto da Divisão
+
+Ordem De Precendência
+
+() Parênteses
+^ Exponenciação
+* / Multiplicação / Divisão
++- Adição e Subtração
+
+
+
+
+
