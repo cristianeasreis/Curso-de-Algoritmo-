@@ -18,4 +18,30 @@ Senao
       Bloco B
 FimSe
 
+Condicional Aninhada
+
+Se (situacao 1) entao
+     Bloco A
+Senao
+   Se(situacao 2 ) entao
+       Bloco B
+Senao 
+        Bloco C
+    FimSe
+FimSe
+
+Estrutura Condicional Escolha Caso- Ele so aceita numeros inteiros
+
+Escolha (Variavel)
+     Caso Valor
+          Bloco A
+     Caso Valor
+          Bloco B
+     Caso Valor
+          Bloco C
+     OutroCaso
+          Bloco D
+FimEscolha
+
+
 
