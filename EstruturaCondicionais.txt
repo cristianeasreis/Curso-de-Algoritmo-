@@ -1,0 +1,21 @@
+Estrurura Concicionais 1
+
+Condicional Simples
+
+Se (expressao) entao
+     Bloco
+FimSe
+
+Se (dinheiro >= 10000) entao
+     Escreva("Partiu Disney")
+FimSe
+
+Condicionais Composta
+
+Se (expressao) entao 
+     Bloco A
+Senao 
+      Bloco B
+FimSe
+
+
