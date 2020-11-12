@@ -1,4 +1,4 @@
-Estruturas de Repetição
+Estruturas de Repetição Enquanto
 
 mao <- 0
 Enquanto (mao <= 5 ) faca
@@ -6,4 +6,17 @@ Enquanto (mao <= 5 ) faca
 mao <- mao + 1
 FimEnquanto
 
+repita
+   castigo
+ate arrumar o quarto
+liberado
+
+Estrutura de Repetição Repita
+
+cont <- 1
+repita
+
+cont<- cont +1
+
+Ate(cont >10)
 
