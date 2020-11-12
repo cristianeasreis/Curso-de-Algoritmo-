@@ -6,6 +6,7 @@ Enquanto (mao <= 5 ) faca
 mao <- mao + 1
 FimEnquanto
 
+
 repita
    castigo
 ate arrumar o quarto
@@ -19,4 +20,36 @@ repita
 cont<- cont +1
 
 Ate(cont >10)
+
+
+Revisaoando Enquanto
+
+Enquanto (c <= 10)faca
+   Escreval(c)
+   c <- c+1
+FimEnquanto
+
+Revisando Repita
+
+c <- 1
+repita
+    c <- c+1
+Ate (c > 10)
+
+Estrutura de Repetição Para
+
+Para variavel <- inicio ate fim [passo salto]faca
+Bloco 
+FimPara
+
+Para c <- 1 ate 10 passo 1 faca
+Escreva(c)
+FimPara
+
+O para não pode ser usado em todas situaçoes 
+pois no para vc tem que utilizar o começo e um fim
+por isso ele não é recomendando em todas as 
+Estruturas
+
+
 
