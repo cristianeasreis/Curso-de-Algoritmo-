@@ -1,0 +1,28 @@
+Rotinas e Funções
+
+Funcoes- Podem Retornar os Resultados
+
+funcao Soma (A,B: Inteiro):Inteiro
+var 
+  S: Inteiro
+inicio
+    S <- A + B
+    Retorne S
+FimFuncao
+inicio
+   N1 <- 5
+   N2 <- 4
+   Res <- Soma(N1,N2)
+   Escreval("A Soma é ",Res)
+FimAlgoritimo
+
+
+
+
+
+
+
+
+
+
+
