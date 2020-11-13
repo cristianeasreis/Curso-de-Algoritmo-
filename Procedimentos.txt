@@ -1,2 +1,60 @@
-Procedimentos
+Procedimentos e Rotinas
+
+Procedimento RotinaPreparo()
+inicio
+     Verifique a escotilha
+     botao azul posicao1
+     olhe pelo visor 
+     gire a manivela
+     botao azul posicao2
+     gire a manivela
+     aperte o botao vermelho
+FimProcedimento
+inico 
+   RotinaPreparo()
+   coloque a carne
+   RotinaPreparo()
+FimAlgoritimo
+
+Passagem De Parâmetros
+
+Tipo 1 - Por Valor 
+
+Procedimento Soma (A, B: Inteiro)
+inicio
+    Escreval("Recebi o valor ", A)
+    Escreval("Recebi o valor ", B)
+    Escreval("A soma vale  ", A+B)
+FimProcedimento
+
+Escopo é o local onde uma determinada variavel
+vai funcionar
+
+variavel global e escrita fora.
+
+Tipo 2 - Referencia
+
+Procedimento Soma (var A,B:Inteiro)
+Inicio
+   A <- A + 1
+   B <- B + 2
+   Escreval ("A soma vale ", A+B)
+FimProcedimento
+Inicio 
+   X <- 4
+   Y <- 8
+   Soma(X , Y)
+   Escreval(X , Y)
+FimAlgoritimo
+
+var - o var quando é usado é uma Referencia
+
+
+
+
+
+
+
+
+
 
